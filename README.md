@@ -3,7 +3,7 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 ________________________________________
 
 1) Creo un lista della spesa cioè
-un const LISTA = [oggetto1, oggetto2, ecc...]
+// const LISTA = [oggetto1, oggetto2, ecc...]
 
 In questo modo l'array LISTA conterrà gli oggetti della spesa
 
